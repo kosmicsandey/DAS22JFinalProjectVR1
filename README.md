@@ -9,3 +9,5 @@ https://assetstore.unity.com/packages/3d/environments/glowy-space-2d-toon-parall
 https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
 https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055
 https://assetstore.unity.com/packages/3d/environments/low-poly-environment-nature-free-lowpoly-medieval-fantasy-series-187052
+https://assetstore.unity.com/packages/3d/characters/animals/fish/fish-alive-free-samples-362806
+https://assetstore.unity.com/packages/3d/characters/animals/fish/low-poly-fish-339618
