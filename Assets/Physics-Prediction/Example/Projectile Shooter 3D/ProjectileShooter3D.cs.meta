@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2f64e48fb4daf1040810fa2ab7dff808
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199756
+  packageName: Physics Prediction
+  packageVersion: 1.0
+  assetPath: Assets/Physics-Prediction/Example/Projectile Shooter 3D/ProjectileShooter3D.cs
+  uploadId: 444488

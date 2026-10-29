@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a1827edd48aae14a9bb29d6d4b15dd6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199756
+  packageName: Physics Prediction
+  packageVersion: 1.0
+  assetPath: Assets/Physics-Prediction/Example/Projectile Shooter 3D/Projectile 3D.prefab
+  uploadId: 444488

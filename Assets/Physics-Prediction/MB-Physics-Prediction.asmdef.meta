@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d6389278bfbd064782df1af6cab90ba
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199756
+  packageName: Physics Prediction
+  packageVersion: 1.0
+  assetPath: Assets/Physics-Prediction/MB-Physics-Prediction.asmdef
+  uploadId: 444488

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4b2118a518268640b554b762c814be2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199756
+  packageName: Physics Prediction
+  packageVersion: 1.0
+  assetPath: Assets/Physics-Prediction/Example/General/Physics Materials/Bouncy Ball
+    3D.physicMaterial
+  uploadId: 444488

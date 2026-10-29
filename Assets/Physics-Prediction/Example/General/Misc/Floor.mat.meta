@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04284953fd4616047812c15a7753da89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199756
+  packageName: Physics Prediction
+  packageVersion: 1.0
+  assetPath: Assets/Physics-Prediction/Example/General/Misc/Floor.mat
+  uploadId: 444488

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aaa4eeacc91c6ec4baf9d56a236d4a41
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199756
+  packageName: Physics Prediction
+  packageVersion: 1.0
+  assetPath: Assets/Physics-Prediction/Example/Projectile Shooter 3D/Projectile Shooter
+    3D.unity
+  uploadId: 444488

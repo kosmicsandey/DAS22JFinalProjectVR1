@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 86ddbbae5700df645b4302b65dcbf950
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199756
+  packageName: Physics Prediction
+  packageVersion: 1.0
+  assetPath: Assets/Physics-Prediction/Utility/TrajectoryPredictionDrawer.cs
+  uploadId: 444488
