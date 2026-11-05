@@ -16,3 +16,5 @@ https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/toon
 https://assetstore.unity.com/packages/vfx/particles/free-quick-effects-vol-1-304424
 https://assetstore.unity.com/packages/vfx/shaders/webgpu-interactive-water-390962
 https://assetstore.unity.com/packages/templates/systems/electric-wire-163229
+https://sketchfab.com/3d-models/frutiger-aero-buildings-09f041a3d7244a9bb63a1dd030eff598#download
+https://sketchfab.com/3d-models/frutiger-aero-home-furniture-b76db6e5277a44149ca4011655b0a7c2#download
